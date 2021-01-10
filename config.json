@@ -1,420 +1,500 @@
 {
-  "Croatia": [
+  "Brac": [
     {
       "height": 2900,
-      "compressed_path": "./photos/Croatia/DJI_0869-HDR.min.jpg",
+      "compressed_path": "./photos/Brac/DJI_0869-HDR.min.jpg",
       "width": 3625,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0869-HDR.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0869-HDR.jpg"
-    },
-    {
-      "height": 4512,
-      "compressed_path": "./photos/Croatia/DJI_0167-HDR-Pano.min.jpg",
-      "width": 3610,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0167-HDR-Pano.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0167-HDR-Pano.jpg"
-    },
-    {
-      "height": 2773,
-      "compressed_path": "./photos/Croatia/DJI_0050-HDR-Pano.min.jpg",
-      "width": 5214,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0050-HDR-Pano.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0050-HDR-Pano.jpg"
-    },
-    {
-      "height": 2081,
-      "compressed_path": "./photos/Croatia/DJI_0268-HDR-Pano-left.min.jpg",
-      "width": 2602,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0268-HDR-Pano-left.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0268-HDR-Pano-left.jpg"
-    },
-    {
-      "height": 2819,
-      "compressed_path": "./photos/Croatia/DJI_0245-HDR.min.jpg",
-      "width": 2255,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0245-HDR.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0245-HDR.jpg"
-    },
-    {
-      "height": 5899,
-      "compressed_path": "./photos/Croatia/DJI_0716-HDR-Pano.min.jpg",
-      "width": 4719,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0716-HDR-Pano.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0716-HDR-Pano.jpg"
+      "compressed": true,
+      "placeholder_path": "./photos/Brac/DJI_0869-HDR.placeholder.jpg",
+      "path": "./photos/Brac/DJI_0869-HDR.jpg"
     },
     {
       "height": 5667,
-      "compressed_path": "./photos/Croatia/DJI_0699-HDR-Pano.min.jpg",
+      "compressed_path": "./photos/Brac/DJI_0699-HDR-Pano.min.jpg",
       "width": 4534,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0699-HDR-Pano.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0699-HDR-Pano.jpg"
+      "compressed": true,
+      "placeholder_path": "./photos/Brac/DJI_0699-HDR-Pano.placeholder.jpg",
+      "path": "./photos/Brac/DJI_0699-HDR-Pano.jpg"
     },
     {
       "height": 4868,
-      "compressed_path": "./photos/Croatia/DJI_0744-HDR-Pano.min.jpg",
+      "compressed_path": "./photos/Brac/DJI_0744-HDR-Pano.min.jpg",
       "width": 3894,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0744-HDR-Pano.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0744-HDR-Pano.jpg"
+      "compressed": true,
+      "placeholder_path": "./photos/Brac/DJI_0744-HDR-Pano.placeholder.jpg",
+      "path": "./photos/Brac/DJI_0744-HDR-Pano.jpg"
     },
     {
       "height": 3407,
-      "compressed_path": "./photos/Croatia/DJI_0535-HDR.min.jpg",
+      "compressed_path": "./photos/Brac/DJI_0535-HDR.min.jpg",
       "width": 2726,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0535-HDR.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0535-HDR.jpg"
+      "compressed": true,
+      "placeholder_path": "./photos/Brac/DJI_0535-HDR.placeholder.jpg",
+      "path": "./photos/Brac/DJI_0535-HDR.jpg"
     },
     {
       "height": 2756,
-      "compressed_path": "./photos/Croatia/DJI_0868-HDR.min.jpg",
+      "compressed_path": "./photos/Brac/DJI_0868-HDR.min.jpg",
       "width": 3445,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0868-HDR.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0868-HDR.jpg"
-    },
-    {
-      "height": 4146,
-      "compressed_path": "./photos/Croatia/DJI_0043-HDR-Pano.min.jpg",
-      "width": 3317,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0043-HDR-Pano.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0043-HDR-Pano.jpg"
-    },
-    {
-      "height": 3958,
-      "compressed_path": "./photos/Croatia/DJI_0415-HDR-Pano-Edit.min.jpg",
-      "width": 3166,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0415-HDR-Pano-Edit.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0415-HDR-Pano-Edit.jpg"
+      "compressed": true,
+      "placeholder_path": "./photos/Brac/DJI_0868-HDR.placeholder.jpg",
+      "path": "./photos/Brac/DJI_0868-HDR.jpg"
     },
     {
       "height": 4880,
-      "compressed_path": "./photos/Croatia/DJI_0803-HDR-Pano.min.jpg",
+      "compressed_path": "./photos/Brac/DJI_0803-HDR-Pano.min.jpg",
       "width": 3904,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0803-HDR-Pano.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0803-HDR-Pano.jpg"
-    },
-    {
-      "height": 3977,
-      "compressed_path": "./photos/Croatia/DJI_0974-HDR-Pano.min.jpg",
-      "width": 3182,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0974-HDR-Pano.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0974-HDR-Pano.jpg"
-    },
-    {
-      "height": 3680,
-      "compressed_path": "./photos/Croatia/DJI_0921-HDR-Pano.min.jpg",
-      "width": 2944,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0921-HDR-Pano.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0921-HDR-Pano.jpg"
-    },
-    {
-      "height": 2579,
-      "compressed_path": "./photos/Croatia/DJI_0032.min.jpg",
-      "width": 3443,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0032.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0032.jpg"
-    },
-    {
-      "height": 2788,
-      "compressed_path": "./photos/Croatia/DJI_0146.min.jpg",
-      "width": 3485,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0146.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0146.jpg"
-    },
-    {
-      "height": 3437,
-      "compressed_path": "./photos/Croatia/DJI_0426-HDR-Pano.min.jpg",
-      "width": 2750,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0426-HDR-Pano.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0426-HDR-Pano.jpg"
-    },
-    {
-      "height": 4104,
-      "compressed_path": "./photos/Croatia/DJI_0187-HDR-Pano.min.jpg",
-      "width": 3283,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0187-HDR-Pano.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0187-HDR-Pano.jpg"
-    },
-    {
-      "height": 5310,
-      "compressed_path": "./photos/Croatia/PANO0009-Pano.min.jpg",
-      "width": 6637,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/PANO0009-Pano.placeholder.jpg",
-      "path": "./photos/Croatia/PANO0009-Pano.jpg"
-    },
-    {
-      "height": 4162,
-      "compressed_path": "./photos/Croatia/DJI_0268-HDR-Pano-full.min.png",
-      "width": 5203,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0268-HDR-Pano-full.placeholder.png",
-      "path": "./photos/Croatia/DJI_0268-HDR-Pano-full.png"
-    },
-    {
-      "height": 3265,
-      "compressed_path": "./photos/Croatia/DJI_0550-HDR-Pano.min.jpg",
-      "width": 4081,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0550-HDR-Pano.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0550-HDR-Pano.jpg"
+      "compressed": true,
+      "placeholder_path": "./photos/Brac/DJI_0803-HDR-Pano.placeholder.jpg",
+      "path": "./photos/Brac/DJI_0803-HDR-Pano.jpg"
     },
     {
       "height": 4303,
-      "compressed_path": "./photos/Croatia/DJI_0886-HDR-Pano.min.jpg",
+      "compressed_path": "./photos/Brac/DJI_0886-HDR-Pano.min.jpg",
       "width": 3442,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0886-HDR-Pano.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0886-HDR-Pano.jpg"
-    },
-    {
-      "height": 2081,
-      "compressed_path": "./photos/Croatia/DJI_0268-HDR-Pano-right.min.jpg",
-      "width": 2602,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0268-HDR-Pano-right.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0268-HDR-Pano-right.jpg"
-    },
-    {
-      "height": 4868,
-      "compressed_path": "./photos/Croatia/PANO0001-Pano-4.min.jpg",
-      "width": 6085,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/PANO0001-Pano-4.placeholder.jpg",
-      "path": "./photos/Croatia/PANO0001-Pano-4.jpg"
-    },
-    {
-      "height": 4870,
-      "compressed_path": "./photos/Croatia/PANO0009-Pano-2.min.jpg",
-      "width": 6087,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/PANO0009-Pano-2.placeholder.jpg",
-      "path": "./photos/Croatia/PANO0009-Pano-2.jpg"
-    },
-    {
-      "height": 4695,
-      "compressed_path": "./photos/Croatia/DJI_0571-HDR-Pano.min.jpg",
-      "width": 3756,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0571-HDR-Pano.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0571-HDR-Pano.jpg"
+      "compressed": true,
+      "placeholder_path": "./photos/Brac/DJI_0886-HDR-Pano.placeholder.jpg",
+      "path": "./photos/Brac/DJI_0886-HDR-Pano.jpg"
     },
     {
       "height": 4569,
-      "compressed_path": "./photos/Croatia/PANO0001-Pano-5.min.jpg",
+      "compressed_path": "./photos/Brac/PANO0001-Pano-5.min.jpg",
       "width": 5711,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/PANO0001-Pano-5.placeholder.jpg",
-      "path": "./photos/Croatia/PANO0001-Pano-5.jpg"
-    },
-    {
-      "height": 3702,
-      "compressed_path": "./photos/Croatia/DJI_0236-HDR-Pano.min.jpg",
-      "width": 2962,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0236-HDR-Pano.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0236-HDR-Pano.jpg"
-    },
-    {
-      "height": 2918,
-      "compressed_path": "./photos/Croatia/DJI_0211.min.jpg",
-      "width": 2334,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0211.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0211.jpg"
-    },
-    {
-      "height": 3949,
-      "compressed_path": "./photos/Croatia/DJI_0685-HDR-Pano.min.jpg",
-      "width": 3159,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0685-HDR-Pano.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0685-HDR-Pano.jpg"
-    },
-    {
-      "height": 4411,
-      "compressed_path": "./photos/Croatia/DJI_0668-HDR-Pano.min.jpg",
-      "width": 3529,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0668-HDR-Pano.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0668-HDR-Pano.jpg"
-    },
-    {
-      "height": 5318,
-      "compressed_path": "./photos/Croatia/PANO0001-Pano-2.min.jpg",
-      "width": 6647,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/PANO0001-Pano-2.placeholder.jpg",
-      "path": "./photos/Croatia/PANO0001-Pano-2.jpg"
-    },
-    {
-      "height": 4519,
-      "compressed_path": "./photos/Croatia/PANO0001-Pano-3.min.jpg",
-      "width": 5649,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/PANO0001-Pano-3.placeholder.jpg",
-      "path": "./photos/Croatia/PANO0001-Pano-3.jpg"
-    },
-    {
-      "height": 3031,
-      "compressed_path": "./photos/Croatia/DJI_0931-HDR.min.jpg",
-      "width": 2425,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0931-HDR.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0931-HDR.jpg"
+      "compressed": true,
+      "placeholder_path": "./photos/Brac/PANO0001-Pano-5.placeholder.jpg",
+      "path": "./photos/Brac/PANO0001-Pano-5.jpg"
     },
     {
       "height": 3021,
-      "compressed_path": "./photos/Croatia/DJI_0859-HDR.min.jpg",
+      "compressed_path": "./photos/Brac/DJI_0859-HDR.min.jpg",
       "width": 4033,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0859-HDR.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0859-HDR.jpg"
-    },
-    {
-      "height": 3012,
-      "compressed_path": "./photos/Croatia/DJI_0544-HDR-2.min.jpg",
-      "width": 4021,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0544-HDR-2.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0544-HDR-2.jpg"
-    },
-    {
-      "height": 3597,
-      "compressed_path": "./photos/Croatia/DJI_0307-HDR-Pano.min.jpg",
-      "width": 2878,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0307-HDR-Pano.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0307-HDR-Pano.jpg"
-    },
-    {
-      "height": 3574,
-      "compressed_path": "./photos/Croatia/DJI_0882-HDR-Pano.min.jpg",
-      "width": 2859,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0882-HDR-Pano.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0882-HDR-Pano.jpg"
+      "compressed": true,
+      "placeholder_path": "./photos/Brac/DJI_0859-HDR.placeholder.jpg",
+      "path": "./photos/Brac/DJI_0859-HDR.jpg"
     },
     {
       "height": 2465,
-      "compressed_path": "./photos/Croatia/DJI_0550-HDR.min.jpg",
+      "compressed_path": "./photos/Brac/DJI_0550-HDR.min.jpg",
       "width": 1972,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0550-HDR.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0550-HDR.jpg"
-    },
-    {
-      "height": 4887,
-      "compressed_path": "./photos/Croatia/DJI_0513-HDR-Pano.min.jpg",
-      "width": 3910,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0513-HDR-Pano.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0513-HDR-Pano.jpg"
-    },
-    {
-      "height": 4681,
-      "compressed_path": "./photos/Croatia/PANO0001-Pano.min.jpg",
-      "width": 3745,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/PANO0001-Pano.placeholder.jpg",
-      "path": "./photos/Croatia/PANO0001-Pano.jpg"
-    },
-    {
-      "height": 2081,
-      "compressed_path": "./photos/Croatia/DJI_0268-HDR-Pano.min.jpg",
-      "width": 5203,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0268-HDR-Pano.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0268-HDR-Pano.jpg"
-    },
-    {
-      "height": 3022,
-      "compressed_path": "./photos/Croatia/DJI_0539-HDR.min.jpg",
-      "width": 4034,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0539-HDR.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0539-HDR.jpg"
+      "compressed": true,
+      "placeholder_path": "./photos/Brac/DJI_0550-HDR.placeholder.jpg",
+      "path": "./photos/Brac/DJI_0550-HDR.jpg"
     },
     {
       "height": 2506,
-      "compressed_path": "./photos/Croatia/DJI_0745-HDR.min.jpg",
+      "compressed_path": "./photos/Brac/DJI_0745-HDR.min.jpg",
       "width": 3132,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0745-HDR.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0745-HDR.jpg"
-    },
-    {
-      "height": 2816,
-      "compressed_path": "./photos/Croatia/DJI_0889-HDR.min.jpg",
-      "width": 2253,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0889-HDR.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0889-HDR.jpg"
-    },
-    {
-      "height": 4741,
-      "compressed_path": "./photos/Croatia/DJI_0037-HDR-Pano.min.jpg",
-      "width": 3793,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0037-HDR-Pano.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0037-HDR-Pano.jpg"
-    },
-    {
-      "height": 5012,
-      "compressed_path": "./photos/Croatia/DJI_0124-HDR-Pano.min.jpg",
-      "width": 4010,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0124-HDR-Pano.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0124-HDR-Pano.jpg"
+      "compressed": true,
+      "placeholder_path": "./photos/Brac/DJI_0745-HDR.placeholder.jpg",
+      "path": "./photos/Brac/DJI_0745-HDR.jpg"
     },
     {
       "height": 4154,
-      "compressed_path": "./photos/Croatia/DJI_0640-HDR-Pano.min.jpg",
+      "compressed_path": "./photos/Brac/DJI_0640-HDR-Pano.min.jpg",
       "width": 3323,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0640-HDR-Pano.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0640-HDR-Pano.jpg"
-    },
-    {
-      "height": 6552,
-      "compressed_path": "./photos/Croatia/DJI_0131-HDR-Pano.min.jpg",
-      "width": 5242,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0131-HDR-Pano.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0131-HDR-Pano.jpg"
-    },
-    {
-      "height": 6353,
-      "compressed_path": "./photos/Croatia/DJI_0122-HDR-Pano.min.jpg",
-      "width": 5082,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0122-HDR-Pano.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0122-HDR-Pano.jpg"
+      "compressed": true,
+      "placeholder_path": "./photos/Brac/DJI_0640-HDR-Pano.placeholder.jpg",
+      "path": "./photos/Brac/DJI_0640-HDR-Pano.jpg"
     },
     {
       "height": 3329,
-      "compressed_path": "./photos/Croatia/DJI_0565-HDR.min.jpg",
+      "compressed_path": "./photos/Brac/DJI_0565-HDR.min.jpg",
       "width": 2663,
-      "compressed": false,
-      "placeholder_path": "./photos/Croatia/DJI_0565-HDR.placeholder.jpg",
-      "path": "./photos/Croatia/DJI_0565-HDR.jpg"
+      "compressed": true,
+      "placeholder_path": "./photos/Brac/DJI_0565-HDR.placeholder.jpg",
+      "path": "./photos/Brac/DJI_0565-HDR.jpg"
+    }
+  ],
+  "Dalmatia": [
+    {
+      "height": 4559,
+      "compressed_path": "./photos/Dalmatia/DJI_0415-HDR-Pano-2.min.jpg",
+      "width": 3647,
+      "compressed": true,
+      "placeholder_path": "./photos/Dalmatia/DJI_0415-HDR-Pano-2.placeholder.jpg",
+      "path": "./photos/Dalmatia/DJI_0415-HDR-Pano-2.jpg"
+    },
+    {
+      "height": 5899,
+      "compressed_path": "./photos/Dalmatia/DJI_0716-HDR-Pano.min.jpg",
+      "width": 4719,
+      "compressed": true,
+      "placeholder_path": "./photos/Dalmatia/DJI_0716-HDR-Pano.placeholder.jpg",
+      "path": "./photos/Dalmatia/DJI_0716-HDR-Pano.jpg"
+    },
+    {
+      "height": 3958,
+      "compressed_path": "./photos/Dalmatia/DJI_0415-HDR-Pano-Edit.min.jpg",
+      "width": 3166,
+      "compressed": true,
+      "placeholder_path": "./photos/Dalmatia/DJI_0415-HDR-Pano-Edit.placeholder.jpg",
+      "path": "./photos/Dalmatia/DJI_0415-HDR-Pano-Edit.jpg"
+    },
+    {
+      "height": 5310,
+      "compressed_path": "./photos/Dalmatia/PANO0009-Pano.min.jpg",
+      "width": 6637,
+      "compressed": true,
+      "placeholder_path": "./photos/Dalmatia/PANO0009-Pano.placeholder.jpg",
+      "path": "./photos/Dalmatia/PANO0009-Pano.jpg"
+    },
+    {
+      "height": 3241,
+      "compressed_path": "./photos/Dalmatia/DJI_0426.min.jpg",
+      "width": 2593,
+      "compressed": true,
+      "placeholder_path": "./photos/Dalmatia/DJI_0426.placeholder.jpg",
+      "path": "./photos/Dalmatia/DJI_0426.jpg"
+    },
+    {
+      "height": 4096,
+      "compressed_path": "./photos/Dalmatia/DJI_0471-HDR-Pano-Edit.min.jpg",
+      "width": 3277,
+      "compressed": true,
+      "placeholder_path": "./photos/Dalmatia/DJI_0471-HDR-Pano-Edit.placeholder.jpg",
+      "path": "./photos/Dalmatia/DJI_0471-HDR-Pano-Edit.jpg"
+    },
+    {
+      "height": 4695,
+      "compressed_path": "./photos/Dalmatia/DJI_0571-HDR-Pano.min.jpg",
+      "width": 3756,
+      "compressed": true,
+      "placeholder_path": "./photos/Dalmatia/DJI_0571-HDR-Pano.placeholder.jpg",
+      "path": "./photos/Dalmatia/DJI_0571-HDR-Pano.jpg"
+    },
+    {
+      "height": 5318,
+      "compressed_path": "./photos/Dalmatia/PANO0001-Pano-2.min.jpg",
+      "width": 6647,
+      "compressed": true,
+      "placeholder_path": "./photos/Dalmatia/PANO0001-Pano-2.placeholder.jpg",
+      "path": "./photos/Dalmatia/PANO0001-Pano-2.jpg"
+    }
+  ],
+  "Fields of Grace Vineyard": [
+    {
+      "height": 4922,
+      "compressed_path": "./photos/Fields of Grace Vineyard/FoG-13.min.png",
+      "width": 3938,
+      "compressed": true,
+      "placeholder_path": "./photos/Fields of Grace Vineyard/FoG-13.placeholder.png",
+      "path": "./photos/Fields of Grace Vineyard/FoG-13.png"
+    },
+    {
+      "height": 4029,
+      "compressed_path": "./photos/Fields of Grace Vineyard/FoG-12.min.png",
+      "width": 3223,
+      "compressed": true,
+      "placeholder_path": "./photos/Fields of Grace Vineyard/FoG-12.placeholder.png",
+      "path": "./photos/Fields of Grace Vineyard/FoG-12.png"
+    },
+    {
+      "height": 4462,
+      "compressed_path": "./photos/Fields of Grace Vineyard/FoG-10.min.png",
+      "width": 3570,
+      "compressed": true,
+      "placeholder_path": "./photos/Fields of Grace Vineyard/FoG-10.placeholder.png",
+      "path": "./photos/Fields of Grace Vineyard/FoG-10.png"
+    },
+    {
+      "height": 4914,
+      "compressed_path": "./photos/Fields of Grace Vineyard/FoG-8.min.png",
+      "width": 3931,
+      "compressed": true,
+      "placeholder_path": "./photos/Fields of Grace Vineyard/FoG-8.placeholder.png",
+      "path": "./photos/Fields of Grace Vineyard/FoG-8.png"
+    },
+    {
+      "height": 4586,
+      "compressed_path": "./photos/Fields of Grace Vineyard/FoG-9.min.png",
+      "width": 3669,
+      "compressed": true,
+      "placeholder_path": "./photos/Fields of Grace Vineyard/FoG-9.placeholder.png",
+      "path": "./photos/Fields of Grace Vineyard/FoG-9.png"
+    },
+    {
+      "height": 5030,
+      "compressed_path": "./photos/Fields of Grace Vineyard/FoG-11.min.png",
+      "width": 4024,
+      "compressed": true,
+      "placeholder_path": "./photos/Fields of Grace Vineyard/FoG-11.placeholder.png",
+      "path": "./photos/Fields of Grace Vineyard/FoG-11.png"
+    },
+    {
+      "height": 3992,
+      "compressed_path": "./photos/Fields of Grace Vineyard/FoG-15.min.png",
+      "width": 3194,
+      "compressed": true,
+      "placeholder_path": "./photos/Fields of Grace Vineyard/FoG-15.placeholder.png",
+      "path": "./photos/Fields of Grace Vineyard/FoG-15.png"
+    },
+    {
+      "height": 4527,
+      "compressed_path": "./photos/Fields of Grace Vineyard/FoG-14.min.png",
+      "width": 3622,
+      "compressed": true,
+      "placeholder_path": "./photos/Fields of Grace Vineyard/FoG-14.placeholder.png",
+      "path": "./photos/Fields of Grace Vineyard/FoG-14.png"
+    },
+    {
+      "height": 5030,
+      "compressed_path": "./photos/Fields of Grace Vineyard/FoG-16.min.png",
+      "width": 4024,
+      "compressed": true,
+      "placeholder_path": "./photos/Fields of Grace Vineyard/FoG-16.placeholder.png",
+      "path": "./photos/Fields of Grace Vineyard/FoG-16.png"
+    },
+    {
+      "height": 5030,
+      "compressed_path": "./photos/Fields of Grace Vineyard/FoG-17.min.png",
+      "width": 4024,
+      "compressed": true,
+      "placeholder_path": "./photos/Fields of Grace Vineyard/FoG-17.placeholder.png",
+      "path": "./photos/Fields of Grace Vineyard/FoG-17.png"
+    },
+    {
+      "height": 3574,
+      "compressed_path": "./photos/Fields of Grace Vineyard/DJI_0882-HDR-Pano.min.jpg",
+      "width": 2859,
+      "compressed": true,
+      "placeholder_path": "./photos/Fields of Grace Vineyard/DJI_0882-HDR-Pano.placeholder.jpg",
+      "path": "./photos/Fields of Grace Vineyard/DJI_0882-HDR-Pano.jpg"
+    },
+    {
+      "height": 4646,
+      "compressed_path": "./photos/Fields of Grace Vineyard/FoG-2.min.png",
+      "width": 3717,
+      "compressed": true,
+      "placeholder_path": "./photos/Fields of Grace Vineyard/FoG-2.placeholder.png",
+      "path": "./photos/Fields of Grace Vineyard/FoG-2.png"
+    },
+    {
+      "height": 4024,
+      "compressed_path": "./photos/Fields of Grace Vineyard/FoG-3.min.png",
+      "width": 5030,
+      "compressed": true,
+      "placeholder_path": "./photos/Fields of Grace Vineyard/FoG-3.placeholder.png",
+      "path": "./photos/Fields of Grace Vineyard/FoG-3.png"
+    },
+    {
+      "height": 3595,
+      "compressed_path": "./photos/Fields of Grace Vineyard/FoG-1.min.png",
+      "width": 4494,
+      "compressed": true,
+      "placeholder_path": "./photos/Fields of Grace Vineyard/FoG-1.placeholder.png",
+      "path": "./photos/Fields of Grace Vineyard/FoG-1.png"
+    },
+    {
+      "height": 3947,
+      "compressed_path": "./photos/Fields of Grace Vineyard/FoG-4.min.png",
+      "width": 3158,
+      "compressed": true,
+      "placeholder_path": "./photos/Fields of Grace Vineyard/FoG-4.placeholder.png",
+      "path": "./photos/Fields of Grace Vineyard/FoG-4.png"
+    },
+    {
+      "height": 4867,
+      "compressed_path": "./photos/Fields of Grace Vineyard/FoG-5.min.png",
+      "width": 3894,
+      "compressed": true,
+      "placeholder_path": "./photos/Fields of Grace Vineyard/FoG-5.placeholder.png",
+      "path": "./photos/Fields of Grace Vineyard/FoG-5.png"
+    },
+    {
+      "height": 4157,
+      "compressed_path": "./photos/Fields of Grace Vineyard/FoG-6.min.png",
+      "width": 3326,
+      "compressed": true,
+      "placeholder_path": "./photos/Fields of Grace Vineyard/FoG-6.placeholder.png",
+      "path": "./photos/Fields of Grace Vineyard/FoG-6.png"
+    }
+  ],
+  "Hvar": [
+    {
+      "height": 4577,
+      "compressed_path": "./photos/Hvar/DJI_0279-HDR-Pano.min.jpg",
+      "width": 3662,
+      "compressed": true,
+      "placeholder_path": "./photos/Hvar/DJI_0279-HDR-Pano.placeholder.jpg",
+      "path": "./photos/Hvar/DJI_0279-HDR-Pano.jpg"
+    },
+    {
+      "height": 5550,
+      "compressed_path": "./photos/Hvar/DJI_0293-HDR-Pano.min.jpg",
+      "width": 4440,
+      "compressed": true,
+      "placeholder_path": "./photos/Hvar/DJI_0293-HDR-Pano.placeholder.jpg",
+      "path": "./photos/Hvar/DJI_0293-HDR-Pano.jpg"
+    },
+    {
+      "height": 2773,
+      "compressed_path": "./photos/Hvar/DJI_0050-HDR-Pano.min.jpg",
+      "width": 5214,
+      "compressed": true,
+      "placeholder_path": "./photos/Hvar/DJI_0050-HDR-Pano.placeholder.jpg",
+      "path": "./photos/Hvar/DJI_0050-HDR-Pano.jpg"
+    },
+    {
+      "height": 2819,
+      "compressed_path": "./photos/Hvar/DJI_0245-HDR.min.jpg",
+      "width": 2255,
+      "compressed": true,
+      "placeholder_path": "./photos/Hvar/DJI_0245-HDR.placeholder.jpg",
+      "path": "./photos/Hvar/DJI_0245-HDR.jpg"
+    },
+    {
+      "height": 4146,
+      "compressed_path": "./photos/Hvar/DJI_0043-HDR-Pano.min.jpg",
+      "width": 3317,
+      "compressed": true,
+      "placeholder_path": "./photos/Hvar/DJI_0043-HDR-Pano.placeholder.jpg",
+      "path": "./photos/Hvar/DJI_0043-HDR-Pano.jpg"
+    },
+    {
+      "height": 3597,
+      "compressed_path": "./photos/Hvar/hvar4.min.jpg",
+      "width": 2878,
+      "compressed": true,
+      "placeholder_path": "./photos/Hvar/hvar4.placeholder.jpg",
+      "path": "./photos/Hvar/hvar4.jpg"
+    },
+    {
+      "height": 2788,
+      "compressed_path": "./photos/Hvar/DJI_0146.min.jpg",
+      "width": 3485,
+      "compressed": true,
+      "placeholder_path": "./photos/Hvar/DJI_0146.placeholder.jpg",
+      "path": "./photos/Hvar/DJI_0146.jpg"
+    },
+    {
+      "height": 3702,
+      "compressed_path": "./photos/Hvar/hvar2.min.jpg",
+      "width": 2962,
+      "compressed": true,
+      "placeholder_path": "./photos/Hvar/hvar2.placeholder.jpg",
+      "path": "./photos/Hvar/hvar2.jpg"
+    },
+    {
+      "height": 4104,
+      "compressed_path": "./photos/Hvar/hvar3.min.jpg",
+      "width": 3283,
+      "compressed": true,
+      "placeholder_path": "./photos/Hvar/hvar3.placeholder.jpg",
+      "path": "./photos/Hvar/hvar3.jpg"
+    },
+    {
+      "height": 3977,
+      "compressed_path": "./photos/Hvar/hvar1.min.jpg",
+      "width": 3182,
+      "compressed": true,
+      "placeholder_path": "./photos/Hvar/hvar1.placeholder.jpg",
+      "path": "./photos/Hvar/hvar1.jpg"
+    },
+    {
+      "height": 3508,
+      "compressed_path": "./photos/Hvar/DJI_0893-HDR-Pano.min.jpg",
+      "width": 2806,
+      "compressed": true,
+      "placeholder_path": "./photos/Hvar/DJI_0893-HDR-Pano.placeholder.jpg",
+      "path": "./photos/Hvar/DJI_0893-HDR-Pano.jpg"
+    },
+    {
+      "height": 2918,
+      "compressed_path": "./photos/Hvar/DJI_0211.min.jpg",
+      "width": 2334,
+      "compressed": true,
+      "placeholder_path": "./photos/Hvar/DJI_0211.placeholder.jpg",
+      "path": "./photos/Hvar/DJI_0211.jpg"
+    },
+    {
+      "height": 2298,
+      "compressed_path": "./photos/Hvar/DJI_0195-HDR.min.jpg",
+      "width": 1838,
+      "compressed": true,
+      "placeholder_path": "./photos/Hvar/DJI_0195-HDR.placeholder.jpg",
+      "path": "./photos/Hvar/DJI_0195-HDR.jpg"
+    },
+    {
+      "height": 4022,
+      "compressed_path": "./photos/Hvar/PANO0001-Pano-6.min.jpg",
+      "width": 3218,
+      "compressed": true,
+      "placeholder_path": "./photos/Hvar/PANO0001-Pano-6.placeholder.jpg",
+      "path": "./photos/Hvar/PANO0001-Pano-6.jpg"
+    },
+    {
+      "height": 4519,
+      "compressed_path": "./photos/Hvar/PANO0001-Pano-3.min.jpg",
+      "width": 5649,
+      "compressed": true,
+      "placeholder_path": "./photos/Hvar/PANO0001-Pano-3.placeholder.jpg",
+      "path": "./photos/Hvar/PANO0001-Pano-3.jpg"
+    },
+    {
+      "height": 3012,
+      "compressed_path": "./photos/Hvar/DJI_0544-HDR-2.min.jpg",
+      "width": 4021,
+      "compressed": true,
+      "placeholder_path": "./photos/Hvar/DJI_0544-HDR-2.placeholder.jpg",
+      "path": "./photos/Hvar/DJI_0544-HDR-2.jpg"
+    },
+    {
+      "height": 2081,
+      "compressed_path": "./photos/Hvar/DJI_0268-HDR-Pano.min.jpg",
+      "width": 5203,
+      "compressed": true,
+      "placeholder_path": "./photos/Hvar/DJI_0268-HDR-Pano.placeholder.jpg",
+      "path": "./photos/Hvar/DJI_0268-HDR-Pano.jpg"
+    },
+    {
+      "height": 4741,
+      "compressed_path": "./photos/Hvar/DJI_0037-HDR-Pano.min.jpg",
+      "width": 3793,
+      "compressed": true,
+      "placeholder_path": "./photos/Hvar/DJI_0037-HDR-Pano.placeholder.jpg",
+      "path": "./photos/Hvar/DJI_0037-HDR-Pano.jpg"
+    },
+    {
+      "height": 6552,
+      "compressed_path": "./photos/Hvar/DJI_0131-HDR-Pano.min.jpg",
+      "width": 5242,
+      "compressed": true,
+      "placeholder_path": "./photos/Hvar/DJI_0131-HDR-Pano.placeholder.jpg",
+      "path": "./photos/Hvar/DJI_0131-HDR-Pano.jpg"
+    }
+  ],
+  "Vis": [
+    {
+      "height": 3437,
+      "compressed_path": "./photos/Vis/DJI_0426-HDR-Pano.min.jpg",
+      "width": 2750,
+      "compressed": true,
+      "placeholder_path": "./photos/Vis/DJI_0426-HDR-Pano.placeholder.jpg",
+      "path": "./photos/Vis/DJI_0426-HDR-Pano.jpg"
+    },
+    {
+      "height": 4870,
+      "compressed_path": "./photos/Vis/PANO0009-Pano-2.min.jpg",
+      "width": 6087,
+      "compressed": true,
+      "placeholder_path": "./photos/Vis/PANO0009-Pano-2.placeholder.jpg",
+      "path": "./photos/Vis/PANO0009-Pano-2.jpg"
+    },
+    {
+      "height": 4887,
+      "compressed_path": "./photos/Vis/DJI_0513-HDR-Pano.min.jpg",
+      "width": 3910,
+      "compressed": true,
+      "placeholder_path": "./photos/Vis/DJI_0513-HDR-Pano.placeholder.jpg",
+      "path": "./photos/Vis/DJI_0513-HDR-Pano.jpg"
+    },
+    {
+      "height": 3022,
+      "compressed_path": "./photos/Vis/DJI_0539-HDR.min.jpg",
+      "width": 4034,
+      "compressed": true,
+      "placeholder_path": "./photos/Vis/DJI_0539-HDR.placeholder.jpg",
+      "path": "./photos/Vis/DJI_0539-HDR.jpg"
     }
   ]
 }

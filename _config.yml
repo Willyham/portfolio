@@ -19,7 +19,7 @@ layout_style: ROWS
 spacing: 10
 
 # Boolean(true|false): Shuffle the photos in the album
-shuffle: true
+shuffle: false
 
 # Integer: Number of columns for square or columns
 columns: 4
@@ -39,7 +39,7 @@ instagram: ex.alta
 name: Ex Alta Photography
 
 # Short description (goes below the title; it will also be used in the RSS feed)
-description: Photgraphy by Will Demaine
+description: Photography by Will Demaine
 
 # Your name, as you want it to appear underneath each post and in the footer
 author: Will Demaine

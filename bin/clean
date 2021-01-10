@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+rm -rf photos/**/*.min.jpg
+rm -rf photos/**/*.placeholder.jpg
+rm -rf photos/**/*.min.png
+rm -rf photos/**/*.placeholder.png
